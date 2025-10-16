@@ -66,35 +66,35 @@ Replace this with a screenshot of your Streamlit interface (for example, `app_in
 ## Visualisations and Insights  
 
 ### 1. Dataset Overview  
-![Dataset Overview](plots/dataset_overview.png)  
+![Dataset Overview](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/datasetoverview.png)  
 An overview of the dataset highlighting key variables and data completeness.
 
 ### 2. Missing Value Heatmap  
-![Missing Values](plots/missing_values_heatmap.png)  
+![Missing Values](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/nullvaluesheatmap.png)  
 A heatmap visualising missing values guided the data cleaning process, revealing gaps in `Age` and `Embarked`.
 
 ### 3. Survival by Gender  
-![Survival by Gender](plots/survival_by_gender.png)  
+![Survival by Gender](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/gendersurvuval.png)  
 Female passengers exhibited a substantially higher survival rate, confirming gender as a significant feature.
 
 ### 4. Survival by Passenger Class  
-![Survival by Class](plots/survival_by_class.png)  
+![Survival by Class](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/pclass%20survival.png)  
 First-class passengers had the highest survival rate, suggesting socio-economic status influenced rescue priority.
 
 ### 5. Age Distribution and Survival  
-![Age Distribution](plots/age_distribution.png)  
+![Age Distribution](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/age%20survival.png)  
 Younger passengers were more likely to survive, indicating potential prioritisation during evacuation.
 
 ### 6. Embarktown and Survival Relationship  
-![Fare vs Survival](plots/fare_vs_survival.png)  
-Higher fare values correlated with greater survival chances, again reflecting the class-based advantage.
+![Embarktown vs Survival](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/town%20survuval.png)  
+The passengers going to cherbourg are likely  survived than other towns
 
 ### 7. Correlation Heatmap  
-![Correlation Heatmap](plots/correlation_heatmap.png)  
-A heatmap of confusion matrix
+![Correlation Heatmap](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/heatmap%20matrix.png)  
+A heatmap of confusion matrix of the Machine Learning model
 
 ### 8. Accuracy Importance (Random Forest)  
-![Feature Importance](plots/feature_importance.png)  
+![Feature Importance](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/accuracy%20rf%20chart.png)  
 The Random Forest model determined that maximum accuracy is 80.597
 
 
