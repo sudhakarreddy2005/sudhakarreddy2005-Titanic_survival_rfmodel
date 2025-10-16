@@ -60,7 +60,7 @@ The prediction result is generated live within the Streamlit interface, enabling
 Below is a placeholder for an image of the deployed application.  
 Replace this with a screenshot of your Streamlit interface (for example, `app_interface.png`).
 
-![Application Interface](plots/app_interface.png)
+![Application Interface](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/app.png)
 
 ---
 
