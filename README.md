@@ -6,18 +6,17 @@ It combines **data analysis, feature engineering, and visualisation** in Python 
 
 The application allows users to experiment with passenger attributes and instantly view survival predictions, showcasing how Machine Learning models can be deployed in real-world decision-making scenarios.  
 
----
 
 ## Live Application  
 Access the deployed web app here:  
 [**Titanic Survival Prediction App**](https://sudhakarreddy2005-titanicsurvivalrfmodel-1610.streamlit.app/)
 
----
+
 
 ## GitHub Repository  
 [**sudhakarreddy2005-Titanic_survival_rfmodel**](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel)
 
----
+
 
 ## Machine Learning Model Details  
 - **Algorithm:** RandomForestClassifier  
@@ -28,7 +27,7 @@ Access the deployed web app here:
 
 The model was trained on the historical Titanic dataset to identify relationships between socio-demographic and travel attributes and survival outcomes. Random Forest was chosen for its robustness, interpretability, and strong performance on tabular data.
 
----
+
 
 ## Streamlit Application Overview  
 
@@ -53,7 +52,7 @@ Users can modify key features—such as passenger class, gender, age, and fare�
 
 The prediction result is generated live within the Streamlit interface, enabling users to explore the model’s behaviour interactively.
 
----
+
 
 ## Application Interface  
 
@@ -62,7 +61,7 @@ Replace this with a screenshot of your Streamlit interface (for example, `app_in
 
 ![Application Interface](https://github.com/sudhakarreddy2005/sudhakarreddy2005-Titanic_survival_rfmodel/blob/main/app.png)
 
----
+
 
 ## Visualisations and Insights  
 
@@ -98,7 +97,7 @@ A heatmap of variable correlations identified `Fare` and `Pclass` as strongly re
 ![Feature Importance](plots/feature_importance.png)  
 The Random Forest model determined that `Sex`, `Fare`, and `Pclass` were the most influential predictors of survival.
 
----
+
 
 ## Running the Application Locally  
 
