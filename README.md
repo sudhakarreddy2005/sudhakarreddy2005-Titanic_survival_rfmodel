@@ -85,17 +85,17 @@ First-class passengers had the highest survival rate, suggesting socio-economic 
 ![Age Distribution](plots/age_distribution.png)  
 Younger passengers were more likely to survive, indicating potential prioritisation during evacuation.
 
-### 6. Fare and Survival Relationship  
+### 6. Embarktown and Survival Relationship  
 ![Fare vs Survival](plots/fare_vs_survival.png)  
 Higher fare values correlated with greater survival chances, again reflecting the class-based advantage.
 
 ### 7. Correlation Heatmap  
 ![Correlation Heatmap](plots/correlation_heatmap.png)  
-A heatmap of variable correlations identified `Fare` and `Pclass` as strongly related factors.
+A heatmap of confusion matrix
 
-### 8. Feature Importance (Random Forest)  
+### 8. Accuracy Importance (Random Forest)  
 ![Feature Importance](plots/feature_importance.png)  
-The Random Forest model determined that `Sex`, `Fare`, and `Pclass` were the most influential predictors of survival.
+The Random Forest model determined that maximum accuracy is 80.597
 
 
 
